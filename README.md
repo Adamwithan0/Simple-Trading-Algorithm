@@ -34,16 +34,16 @@ In this project, we explore the application of automated trading strategies to a
 
 ## Future Enhancements
 
-# Advanced Strategy Combinations
-
-Explore the integration of more intricate trading strategies that combine multiple indicators and signals. Develop hybrid approaches that leverage a blend of moving average crossovers, Bollinger Bands, and RSI signals to generate more refined buy/sell signals. By incorporating various indicators, this enhancement could potentially provide more robust and accurate trading decisions.
-
-# Live Trading Integration
-
-Elevate the project's functionality from research and analysis to real-world trading by seamlessly integrating it with a trading platform or brokerage API. Implement mechanisms to execute actual trades based on the generated signals. This practical implementation allows you to apply your strategies in live market conditions, gaining valuable experience in managing real trades and evaluating their performance.
-
-# Machine Learning Optimization
-
-Leverage machine learning techniques to optimize trading strategies. Utilize algorithms such as reinforcement learning to enable the strategy to adapt and fine-tune its parameters over time based on market feedback. By enabling the algorithm to learn from historical data, the strategy could potentially evolve and enhance its performance across different market conditions.
 
 
+### Advanced Strategy Combinations
+
+I could explore the integration of more intricate trading strategies that combine multiple indicators and signals. By developing hybrid approaches that leverage a blend of moving average crossovers, Bollinger Bands, and RSI signals, I could generate more refined buy/sell signals. Incorporating various indicators might provide more robust and accurate trading decisions.
+
+### Live Trading Integration
+
+I could elevate the project's functionality from research and analysis to real-world trading by seamlessly integrating it with a trading platform or brokerage API. Implementing mechanisms to execute actual trades based on the generated signals, I could apply my strategies in live market conditions, gaining valuable experience in managing real trades and evaluating their performance.
+
+### Machine Learning Optimization
+
+I could leverage machine learning techniques to optimize trading strategies. By utilizing algorithms such as reinforcement learning, I could enable the strategy to adapt and fine-tune its parameters over time based on market feedback. Enabling the algorithm to learn from historical data, the strategy could potentially evolve and enhance its performance across different market conditions.
