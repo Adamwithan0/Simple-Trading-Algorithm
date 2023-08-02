@@ -2,6 +2,8 @@
 
 This project showcases an automated trading algorithm that leverages historical price data and technical indicators to generate trading signals and assess performance. The objective is to implement and analyze diverse trading strategies using Python and fundamental quantitative finance principles.
 
+![apple](Basic-%20Trading-Algo/AAPL_trading_strategies.png)
+
 ## Project Overview
 
 In this project, we explore the application of automated trading strategies to a curated selection of stocks. We utilize historical stock price data from Yahoo Finance and implement three distinct trading strategies based on popular technical indicators: Moving Average Crossovers, Bollinger Bands, and the Relative Strength Index (RSI). Each strategy aims to exploit different market conditions and price trends.
